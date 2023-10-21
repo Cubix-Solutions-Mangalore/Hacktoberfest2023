@@ -28,7 +28,7 @@ _When Uploading & Submitting Pull Requests you need to submit it within a folder
 
 ## How To Contribute
 
-We welcome all contributions, suggestions & ideas for improvement.
+We Welcome all contributions, suggestions & ideas for improvement.
 You can contribute by creating your own project using the templates. If the projects that you contribute are valid then they are labeled with "hacktoberfest-accepted" if invalid or spam then it is labeled as "spam" or "invalid"
 
 ### Pre-Requistes 
@@ -39,7 +39,7 @@ You can contribute by creating your own project using the templates. If the proj
 
 - Git version control - [click here to download](https://git-scm.com/)
 
-- your interest and time😁😎
+- Your interest and time😁😎
 
 
 ## Contributors of `Hacktoberfest 2023`
