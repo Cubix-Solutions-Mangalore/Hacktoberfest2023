@@ -1,5 +1,4 @@
 body{
-   
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif ;
@@ -17,13 +16,13 @@ h1{
 h2{
     color: #11999E;
     font-size: 2.5rem ;
-font-size: 'Montserrat', sans-serif;
-font-weight: normal;
+    font-size: 'Montserrat', sans-serif;
+    font-weight: normal;
 }
 
 h3{
     color: #11999E;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 a{
@@ -71,7 +70,7 @@ div{
 }
 
 .skill-row{
-    width: 50%;
+   width: 50%;
    margin: 100px auto 100px auto;
    text-align: left;
    line-height: 2;
